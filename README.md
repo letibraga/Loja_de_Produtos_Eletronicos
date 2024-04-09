@@ -1,4 +1,4 @@
-# Projeto Análise de Dados - Superstore
+# Análise de Dados - Superstore
 
 Utilizarei o conjunto de dados das superlojas para analisar o desempenho das vendas ao longo do tempo e identificar oportunidades de crescimento tanto para a empresa quanto para os clientes. Esse conjunto de dados abrange informações detalhadas sobre pedidos, consumidores e categorias de itens, fornecendo uma base sólida para nossa análise. 
 A investigação revelou insights valiosos sobre o desempenho de vendas e a lucratividade da Superloja, destacando áreas-chave para aprimoramento. Este projeto enfatizou a eficácia do SQL na análise de dados e no suporte à tomada de decisões estratégicas.
