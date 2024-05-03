@@ -1,7 +1,6 @@
 # Análise de Dados - Superstore
 
-Utilizarei o conjunto de dados das superlojas para analisar o desempenho das vendas ao longo do tempo e identificar oportunidades de crescimento tanto para a empresa quanto para os clientes. Esse conjunto de dados abrange informações detalhadas sobre pedidos, consumidores e categorias de itens, fornecendo uma base sólida para nossa análise. 
-A investigação revelou insights valiosos sobre o desempenho de vendas e a lucratividade da Superloja, destacando áreas-chave para aprimoramento. Este projeto enfatizou a eficácia do SQL na análise de dados e no suporte à tomada de decisões estratégicas.
+Neste projeto, explorei o conjunto de dados da Superloja para analisar o desempenho das vendas ao longo do tempo e identificar oportunidades de crescimento tanto para a empresa quanto para os clientes. Com informações detalhadas sobre pedidos, consumidores e categorias de itens, o objetivo foi extrair insights valiosos para impulsionar estratégias de negócios informadas e focadas.
 
  O projeto se fundamenta no conjunto de dados disponibilizado na plataforma Kaggle:
  
@@ -23,3 +22,4 @@ Gerar insights acionáveis a partir da análise de dados. Esses insights capacit
 ## Conclusão
 A análise e aproveitamento dos dados são fundamentais para impulsionar melhorias essenciais na Superloja, concentrando-se no aprimoramento do desempenho de vendas, correção de pontos fracos, identificação de segmentos promissores e otimização de processos lentos. Isso resultará em uma melhoria dos processos internos e garantirá a satisfação contínua dos clientes.
 
+Este projeto utilizando SQL destaca minha habilidade em explorar e extrair insights valiosos de conjuntos de dados complexos. Demonstra minha proficiência em tomar decisões estratégicas orientadas por dados, essenciais para impulsionar o crescimento dos negócios. 
