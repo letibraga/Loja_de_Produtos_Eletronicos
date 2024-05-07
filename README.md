@@ -23,3 +23,9 @@ Gerar insights acionáveis a partir da análise de dados. Esses insights capacit
 A análise e aproveitamento dos dados são fundamentais para impulsionar melhorias essenciais na Superloja, concentrando-se no aprimoramento do desempenho de vendas, correção de pontos fracos, identificação de segmentos promissores e otimização de processos lentos. Isso resultará em uma melhoria dos processos internos e garantirá a satisfação contínua dos clientes.
 
 Este projeto utilizando SQL destaca minha habilidade em explorar e extrair insights valiosos de conjuntos de dados complexos. Demonstra minha proficiência em tomar decisões estratégicas orientadas por dados, essenciais para impulsionar o crescimento dos negócios. 
+
+## Contato
+Estou sempre aberto para sugestões e melhorias do trabalho! 
+
+* [LinkedIn](https://www.linkedin.com/in/leticiiabraga)
+* <a href = "mailto:leticiiabraga@hotmail.com">E-mail
