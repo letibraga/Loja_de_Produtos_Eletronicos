@@ -18,6 +18,11 @@ Analisar dados de vendas para identificar tendências de produtos, variações s
 ### 4. Geração de insights Acionáveis: ###
 Gerar insights a partir da análise de dados para capacitar os tomadores de decisão a adotar abordagens informadas, impulsionando o crescimento da Superloja e melhorando a satisfação do cliente.
 
+## Tecnologias Utilizadas
+<p align="left">  
+<img title="MySQL" alt="MySQL" width="80px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> 
+
 ## Conclusão
 A análise de dados é crucial para impulsionar melhorias na Superloja, desde o aprimoramento do desempenho de vendas até a correção de falhas e a identificação de oportunidades de crescimento. Ao utilizar SQL, este projeto destacou minha habilidade em extrair insights valiosos de conjuntos de dados complexos e tomar decisões estratégicas orientadas por dados.
 
