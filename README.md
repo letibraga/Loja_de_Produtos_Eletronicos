@@ -2,7 +2,7 @@
 
 Neste projeto, explorei o conjunto de dados da Superloja para analisar o desempenho das vendas ao longo do tempo e identificar oportunidades de crescimento tanto para a empresa quanto para os clientes. Com informações detalhadas sobre pedidos, consumidores e categorias de itens, o objetivo foi extrair insights valiosos para impulsionar estratégias de negócios informadas e focadas.
 
- O projeto se fundamenta no conjunto de dados disponibilizado na plataforma Kaggle:
+  Os dados estão disponibilizados no Kaggle:
  
  [Dataset - Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
