@@ -1,4 +1,4 @@
-# Análise de Dados - Superstore
+# Storytelling com SQL - Analisando dados da Superstore
 
 Neste projeto, explorei o conjunto de dados da Superloja para analisar o desempenho das vendas ao longo do tempo e identificar oportunidades de crescimento tanto para a empresa quanto para os clientes. Com informações detalhadas sobre pedidos, consumidores e categorias de itens, o objetivo foi extrair insights valiosos para impulsionar estratégias de negócios informadas e focadas.
 
